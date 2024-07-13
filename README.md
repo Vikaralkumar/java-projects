@@ -22,7 +22,7 @@ This is a simple Hotel Reservation System implemented in Java, which connects to
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/hotel-reservation-system.git
+    git clone https://github.com/Vikaralkumar/java-projects/tree/main/Hotel%20Reservation%20System
     cd hotel-reservation-system
     ```
 
